@@ -1,6 +1,7 @@
 # OSX leaves these everywhere on SMB shares
 ._*
 
+.github
 # OSX trash
 .DS_Store
 
